@@ -1,0 +1,20 @@
+button:hover {
+    background-color: green
+}
+
+button:active {
+    text-shadow: 5px 5px 20px yellow
+}
+
+a{
+    color:aqua
+}
+
+a:visited {
+    color: green
+}
+
+a:link{
+    box-shadow: 5px 5px 20px yellow
+}
+

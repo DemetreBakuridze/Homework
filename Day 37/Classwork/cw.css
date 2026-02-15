@@ -1,0 +1,22 @@
+.container {
+    border: 3px black;
+    height: 500px;
+    display: flex;
+    gap: 20px;
+    position: relative;
+    padding: 20px;
+}
+
+.child {
+    width: 800px;
+    height: 80px;
+    background-color: aqua;
+    border: 2px yellow
+}
+
+#two {
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    background-color: green
+}

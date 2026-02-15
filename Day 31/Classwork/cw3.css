@@ -1,0 +1,10 @@
+ul{
+    list-style-type: disc;
+    list-style-position: inside;
+    list-style-image: url(image.png)
+}
+ol{
+    list-style-type: square;
+    list-style-position: inside;
+    list-style-image: url(image.png)
+}
