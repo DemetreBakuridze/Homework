@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: red;
+}
+
+nav a {
+    margin : 10px;
+    text-decoration: none;
+    color: blue;
+}
+
+h1 {
+    color: green;
+}
+
+

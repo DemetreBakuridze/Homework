@@ -1,0 +1,44 @@
+body {
+    background-color: blue;
+    font-family: arial;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.title {
+    color: darkblue;
+    margin-top: 20px;
+}
+
+.image {
+    width: 300px;
+    border-radius: 15px;
+    margin: 20px 0;
+}
+
+.text {
+    font-size: 18px;
+    color: lightgreen;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: darkblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.btn:hover {
+    background-color: navy;
+}
