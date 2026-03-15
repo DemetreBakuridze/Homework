@@ -1,0 +1,24 @@
+[
+{
+    "name": "Deme Academy",
+    "founded": 2020,
+    "isActive": true,
+    "students": ["Alice", "Bob"],
+    "details": {
+    "location": "Batumi",
+    "courses": 5,
+    "rating": null
+    }
+},
+{
+    "name": "Tech Academy",
+    "founded": 2018,
+    "isActive": false,
+    "students": [],
+    "details": {
+    "location": "Tbilisi",
+    "courses": 3,
+    "rating": 4.5
+    }
+}
+]
