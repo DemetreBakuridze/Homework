@@ -1,0 +1,21 @@
+.p1{
+font-family: "Roboto", sans-serif;
+font-optical-sizing: auto;
+font-weight: 500;
+font-style: normal;
+font-variation-settings{
+    width: 100;
+}
+}
+
+.p2 {
+font-family: "Playwrite DK Uloopet Guides", cursive;
+font-weight: 400;
+font-style: normal;
+}
+
+.p3 {
+font-family: "Iosevka Charon", monospace;
+font-weight: 300;
+font-style: normal;
+}
