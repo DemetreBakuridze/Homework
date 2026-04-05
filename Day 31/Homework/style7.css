@@ -1,0 +1,19 @@
+form {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+input[type="text"],
+textarea {
+    border-radius: 5px;
+    border: 1px solid blue;
+    text-transform: capitalize;
+    padding: 5px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+input[type="text"]:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}

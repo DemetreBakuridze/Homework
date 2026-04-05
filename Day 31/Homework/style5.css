@@ -1,0 +1,8 @@
+ul {
+    list-style-type: square;
+}
+
+#left-border {
+    border-left: 4px solid black;
+    padding-left: 10px;
+}
